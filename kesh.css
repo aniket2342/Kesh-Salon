@@ -122,14 +122,17 @@ button {
   display: flex;
   justify-content: space-between;
   padding-top: 0px;
+  
 }
 .gallery img {
+  display: block;
   width: 200px;
   height: 200px;
   margin: 30px;
   border-radius: 20px;
   object-fit: cover;
 }
+
 .container1 h1 {
   color: white;
   margin: 30px;
